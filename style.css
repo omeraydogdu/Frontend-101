@@ -1,0 +1,21 @@
+.center{
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+    display: grid;
+}
+
+/*h1*/
+.text-red{
+    color: red;
+    margin: auto;
+}
+/*h3*/
+.text-purple{
+    color: purple;
+    margin: auto;
+}
+.card{
+    text-align: center;
+}
